@@ -25,4 +25,5 @@ const useCollection = (collection) => {
 
 }
 
+
 export default useCollection
